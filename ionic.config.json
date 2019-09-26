@@ -1,5 +1,7 @@
 {
   "name": "pdf-view-2",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
